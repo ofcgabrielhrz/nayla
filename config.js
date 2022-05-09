@@ -1,7 +1,7 @@
 let fs = require('fs')
 global.DeveloperMode = 'false' //true atau false, true berati iya false berati tidak Moga paham
-global.owner = ['628818770766'] // masuk in no lu sebagai owner
-global.mods = ['6283897390164'] // masuk in no moderator ny
+global.owner = ['6285171178013'] // masuk in no lu sebagai owner
+global.mods = ['6285171178013'] // masuk in no moderator ny
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // ini buat premium
 global.APIs = { // API Prefix
   // name: 'https://website'
@@ -30,8 +30,8 @@ global.APIKeys = { // Apikey lu di sini
 }
 
 // Sticker Watermark
-global.packname = 'NayLaBotz'
-global.author = 'Zevano'
+global.packname = 'SKY BOT'
+global.author = 'GabrielHrz'
 
 global.multiplier = 36 // ini butuh berapa xp buat levelup 
 
